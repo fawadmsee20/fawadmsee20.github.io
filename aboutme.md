@@ -6,80 +6,90 @@ subtitle: AI Researcher | Wireless Power Transfer | Machine Learning
 
 ## 👨‍💻 Who I Am
 
-I am **Dr. Fawad Khan**, a researcher working at the intersection of **Artificial Intelligence, Wireless Power Transfer (WPT), and Energy Systems**.
+I am **Dr. Fawad Khan**, an AI researcher specializing in the integration of **Artificial Intelligence, Wireless Power Transfer (WPT), and Energy Systems**.
 
-My work focuses on integrating **physics-based modeling with data-driven AI techniques** to design intelligent and efficient engineering systems.
+My work bridges the gap between **physics-based engineering systems** and **data-driven intelligence**, enabling smarter, more efficient, and scalable solutions.
 
 ---
 
 ## 🎓 Academic & Research Background
 
-- PhD-level research in **Wireless Power Transfer (WPT)** systems  
-- Experience in **electromagnetic modeling and simulation**  
-- Strong background in **machine learning and optimization**  
+My research journey is rooted in:
 
-I have worked extensively with:
+- Advanced **Wireless Power Transfer (WPT)** system design (190 kHz systems)  
+- **Computational electromagnetics** and simulation  
+- **Machine learning-driven optimization**  
 
-- Ansys Maxwell for EM simulation  
-- Python & MATLAB for modeling and AI  
-- Experimental and computational system design  
+I have extensive experience with:
+
+- Ansys Maxwell for electromagnetic field analysis  
+- Python & MATLAB for AI modeling and simulation  
+- Data-driven system optimization and validation  
 
 ---
 
 ## 🔬 Research Focus
 
-My current research includes:
+My research lies at the intersection of **AI + Physics + Energy**, with key areas including:
 
-- ⚡ **WPT System Optimization**  
-  AI-driven design of coils, cores, and resonant structures  
+### ⚡ Wireless Power Transfer (WPT)
+- AI-based optimization of coil and core design  
+- Magnetic field distribution analysis  
+- Efficient and compact system design  
 
-- 🤖 **Artificial Intelligence & Machine Learning**  
-  Deep learning, forecasting, and optimization  
+### 🤖 Artificial Intelligence & Machine Learning
+- Physics-informed AI models  
+- Optimization and predictive modeling  
+- Applied deep learning  
 
-- 📊 **Energy Market Prediction**  
-  DAM/RTM forecasting using TDA and decomposition methods  
+### 📊 Energy Market Forecasting
+- DAM & RTM price prediction  
+- **Topological Data Analysis (TDA)**  
+- **STDR decomposition + machine learning models (XGBoost)**  
 
-- 🚁 **Computer Vision & Robotics**  
-  Stereo vision, SLAM, and drone trajectory estimation  
+### 🚁 Computer Vision & Robotics
+- Stereo vision-based depth estimation  
+- Drone trajectory and yaw estimation  
+- Sensor fusion (Stereo + IMU)  
 
 ---
 
 ## 🧠 Technical Expertise
 
-**Programming & Tools**
+### Programming & Tools
 - Python, MATLAB  
 - Ansys Maxwell, COMSOL  
 - OpenCV, NumPy, Pandas  
 
-**Core Skills**
+### Core Skills
 - Machine Learning & Deep Learning  
 - Time Series Forecasting  
 - Optimization Algorithms  
-- Computational Electromagnetics  
+- Electromagnetic System Design  
 
 ---
 
-## 🌍 Vision
+## 🌍 Research Vision
 
 My long-term goal is to:
 
-> Develop intelligent engineering systems by combining **AI, physics, and real-world data**
+> Develop intelligent engineering systems by combining **Artificial Intelligence, Physics, and Real-World Data**
 
 with applications in:
 
 - Smart energy systems  
-- Autonomous systems  
+- Autonomous platforms  
 - Next-generation wireless technologies  
 
 ---
 
-## 📈 Future Direction
+## 📈 Future Directions
 
 I am particularly interested in:
 
-- Physics-informed AI  
-- AI for energy systems and smart grids  
-- Scalable and real-time optimization methods  
+- Physics-informed AI for engineering systems  
+- AI-driven optimization in energy networks  
+- Real-time intelligent control systems  
 
 ---
 
@@ -87,9 +97,9 @@ I am particularly interested in:
 
 I am open to:
 
-- Research collaborations  
-- Industry partnerships  
-- Academic opportunities  
+- Academic collaborations  
+- Industry research partnerships  
+- Postdoctoral and research opportunities  
 
 ---
 
