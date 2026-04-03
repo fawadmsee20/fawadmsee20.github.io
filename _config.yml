@@ -4,21 +4,22 @@ url: "https://fawadmsee20.github.io"
 baseurl: ""
 
 title: Fawad Khan
-description: AI Researcher | Wireless Power Transfer | Machine Learning | Energy Systems
+description: PostDoc Researcher | Energy AI | Computer Vision | Machine Learning
 
 # --- Navigation bar --- #
 
 navbar-links:
-  HOME: ""
-  About Me: "aboutme"
+  Home: ""
   Research:
-    - Interests: "researchinterest"
-    - Publications: "publication"
+    - Research Interests: "research"
+    - Publications: "publications"
     - Projects: "projects"
-  Contact: "contactnew"
+  Prof Activities: "prof-activities"
+  Resources: "resources"
+  CV: "cv"
 
-# Profile image
-avatar: "/_data/fawad-new2.jpg"
+# Profile image — upload your photo to assets/img/ and update the path below
+avatar: "assets/img/fawad-photo.jpg"
 
 # --- Colors --- #
 
@@ -32,8 +33,6 @@ footer-col: "#0f172a"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#60a5fa"
 
-footer-img: "/img/nebula.jpg"
-
 # --- Footer --- #
 
 author:
@@ -42,9 +41,11 @@ author:
 # --- Social --- #
 
 social-network-links:
-  email: "your-email@example.com"
+  email: "fawadmsee20@gmail.com"
   github: fawadmsee20
   linkedin: "your-linkedin-username"
+  researchgate: "your-researchgate-profile"
+  google-scholar: "your-scholar-id"
 
 # --- Misc --- #
 
