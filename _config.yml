@@ -3,13 +3,10 @@
 url: "https://fawadmsee20.github.io"
 baseurl: ""
 
-# Name of website
 title: Fawad Khan
-
-# Short description of your site
 description: AI Researcher | Wireless Power Transfer | Machine Learning | Energy Systems
 
-# --- Navigation bar options --- #
+# --- Navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
@@ -17,13 +14,12 @@ navbar-links:
     - Interests: "researchinterest"
     - Publications: "publication"
     - Projects: "projects"
-  Portfolio: "projects"
   Contact: "contactnew"
 
 # Profile image
 avatar: "/_data/fawad-new2.jpg"
 
-# --- Colors & Design --- #
+# --- Design --- #
 
 navbar-col: "#0f172a"
 navbar-text-col: "#FFFFFF"
@@ -35,40 +31,28 @@ footer-col: "#0f172a"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#60a5fa"
 
-# Optional background image
 footer-img: "/img/nebula.jpg"
 
-# --- Footer options --- #
+# --- Footer --- #
 
 author:
   name: Fawad Khan
 
-# --- Social Links --- #
+# --- Social --- #
 social-network-links:
-  email: "your-email@example.com"   # ⚠️ UPDATE THIS
+  email: "fawadmsee20@gmail.com"
   github: fawadmsee20
-  linkedin: "your-linkedin-username"  # ⚠️ UPDATE THIS
-  # google-scholar: ""  # (optional)
-  # orcid: ""           # (optional)
+  linkedin: "your-linkedin-username"
 
-# --- Share buttons --- #
+# --- Share --- #
 share-links-active:
   twitter: false
   facebook: false
   linkedin: true
 
-# --- Pretty URL --- #
 url-pretty: "fawadmsee20.github.io"
 
-# --- Analytics (optional) --- #
-# google_analytics: ""
-
-# --- Misc --- #
-
-excerpt_length: 50
-title-separator: "-"
-
-# --- Technical (DO NOT TOUCH MUCH) --- #
+# --- Technical --- #
 
 timezone: "Asia/Seoul"
 markdown: kramdown
@@ -94,18 +78,6 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
-
-link-tags: true
-
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Dockerfile
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Vagrantfile
 
 plugins:
   - jekyll-paginate
