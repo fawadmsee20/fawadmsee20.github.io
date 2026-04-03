@@ -1,84 +1,88 @@
-# --- General options --- #
+---
+layout: page
+title: HOME
+subtitle: AI Researcher | Wireless Power Transfer | Machine Learning | Energy Systems
+---
 
-url: "https://fawadmsee20.github.io"
-baseurl: ""
+## 👋 Welcome
 
-title: Fawad Khan
-description: AI Researcher | Wireless Power Transfer | Machine Learning | Energy Systems
+Hi, I’m **Fawad Khan**, an AI researcher and engineer working at the intersection of:
 
-# --- Navigation bar --- #
+- ⚡ Wireless Power Transfer (WPT)
+- 🤖 Machine Learning & AI
+- 🔋 Energy Systems & Optimization
+- 📡 Electromagnetics & Simulation
 
-navbar-links:
-  About Me: "aboutme"
-  Research:
-    - Interests: "researchinterest"
-    - Publications: "publication"
-    - Projects: "projects"
-  Contact: "contactnew"
+I focus on solving real-world engineering problems using data-driven and physics-informed approaches.
 
-# Profile image
-avatar: "/_data/fawad-new2.jpg"
+---
 
-# --- Design --- #
+## 🔬 What I Do
 
-navbar-col: "#0f172a"
-navbar-text-col: "#FFFFFF"
-navbar-children-col: "#1d4ed8"
-page-col: "#FFFFFF"
-link-col: "#2563eb"
-hover-col: "#1d4ed8"
-footer-col: "#0f172a"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#60a5fa"
+My research combines **electromagnetic system design** with **modern AI techniques**, including:
 
-footer-img: "/img/nebula.jpg"
+- Machine learning optimization for WPT coil and core design  
+- Physics-informed AI models  
+- Time series forecasting for energy markets (DAM/RTM)  
+- Stereo vision & drone trajectory estimation  
+- AI-based cyber threat detection  
 
-# --- Footer --- #
+---
 
-author:
-  name: Fawad Khan
+## 🚀 Current Work
 
-# --- Social --- #
-social-network-links:
-  email: "fawadmsee20@gmail.com"
-  github: fawadmsee20
-  linkedin: "your-linkedin-username"
+- 📊 Developing **Topological Data Analysis (TDA)** based forecasting models  
+- ⚙️ Optimizing **190 kHz WPT systems** using ML  
+- 📈 Energy price prediction using **STDR decomposition + XGBoost**  
+- 🎯 Improving **drone trajectory estimation** using stereo vision + IMU  
 
-# --- Share --- #
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: true
+---
 
-url-pretty: "fawadmsee20.github.io"
+## 📚 Research Interests
 
-# --- Technical --- #
+- Artificial Intelligence & Machine Learning  
+- Wireless Power Transfer (WPT)  
+- Computational Electromagnetics  
+- Energy Market Forecasting  
+- Computer Vision & Robotics  
 
-timezone: "Asia/Seoul"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+---
 
-kramdown:
-  input: GFM
+## 🧠 Technical Skills
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: false
-      social-share: false
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
-      show-avatar: true
+**Languages & Tools:**
+- Python, MATLAB  
+- Ansys Maxwell, COMSOL  
+- OpenCV, NumPy, Pandas  
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+**Techniques:**
+- Machine Learning & Deep Learning  
+- Time Series Forecasting  
+- Optimization Algorithms  
+- Stereo Vision & SLAM  
+
+---
+
+## 🌍 Goal
+
+My goal is to develop **intelligent, efficient, and scalable engineering systems** by integrating:
+
+> Physics + AI + Data
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me:
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-username  
+- 💻 GitHub: https://github.com/fawadmsee20  
+
+---
+
+## ⚡ Quick Note
+
+This website showcases my research, projects, and ongoing work in AI and engineering.
+
+👉 Explore the sections above to learn more.
