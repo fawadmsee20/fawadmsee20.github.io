@@ -16,7 +16,7 @@ subtitle: "PostDoc Researcher | Energy AI | Computer Vision | Machine Learning"
 
 ## Hi, I'm Fawad! 👋
 
-<img src="/assets/img/fawad-photo.jpg" alt="Fawad Khan" style="float:left; margin: 0 1.5rem 1rem 0; width: 220px; border-radius: 4px;">
+<img src="/assets/img/profile.jpg" alt="Fawad Khan" style="float:left; margin: 0 1.5rem 1rem 0; width: 220px; border-radius: 4px;">
 
 I received my Ph.D. in Telecommunication Engineering from the University of Engineering and Technology Taxila, Pakistan (2021), where my dissertation focused on automatic person re-identification in multi-camera surveillance systems. After my Ph.D., I joined **Chosun University** as a Postdoctoral Fellow (Dec 2022 – Sep 2023), developing AI-based dental assistance systems for medical applications. I then moved to **GIST University** (Oct 2023 – Oct 2025), working on AI-optimized wireless power transfer (WPT) systems for implantable medical devices. Currently, I am a Postdoctoral Fellow at the **Energy AI Laboratory, KENTECH**, under the supervision of Prof. Dr. Bumshik Lee, focusing on AI-driven digital twins for anomaly detection in DC power grids.
 
