@@ -1,13 +1,11 @@
 # --- General options --- #
-
 url: "https://fawadmsee20.github.io"
 baseurl: ""
 
 title: Fawad Khan
-description: PostDoc Researcher | Energy AI | Computer Vision | Machine Learning
+description: PostDoc Researcher | Energy AI | Digital Twins | Computer Vision | Machine Learning
 
 # --- Navigation bar --- #
-
 navbar-links:
   Home: ""
   Research: "research"
@@ -15,11 +13,10 @@ navbar-links:
   Publications: "publications"
   CV: "cv"
 
-# Profile image — upload your photo to assets/img/ and update the path below
+# Profile image
 avatar: "assets/img/fawad-photo.jpg"
 
 # --- Colors --- #
-
 navbar-col: "#0f172a"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#1d4ed8"
@@ -31,21 +28,18 @@ footer-text-col: "#FFFFFF"
 footer-link-col: "#60a5fa"
 
 # --- Footer --- #
-
 author:
   name: Fawad Khan
 
 # --- Social --- #
-
 social-network-links:
   email: "fawadmsee20@gmail.com"
   github: fawadmsee20
-  linkedin: "your-linkedin-username"
-  researchgate: "your-researchgate-profile"
-  google-scholar: "your-scholar-id"
+  linkedin: "fawad-khan-YOUR-ID"
+  researchgate: "Fawad-YOUR-PROFILE-NAME"
+  google-scholar: "YOUR-SCHOLAR-ID"
 
 # --- Misc --- #
-
 timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
