@@ -14,7 +14,7 @@ navbar-links:
   CV: "cv"
 
 # Profile image
-avatar: "assets/img/fawad-photo.jpg"
+avatar: "assets/img/profile.jpg"
 
 # --- Colors --- #
 navbar-col: "#0f172a"
