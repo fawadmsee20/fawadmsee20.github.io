@@ -10,12 +10,9 @@ description: PostDoc Researcher | Energy AI | Computer Vision | Machine Learning
 
 navbar-links:
   Home: ""
-  Research:
-    - Research Interests: "research"
-    - Publications: "publications"
-    - Projects: "projects"
-  Prof Activities: "prof-activities"
-  Resources: "resources"
+  Research: "research"
+  Experience: "experience"
+  Publications: "publications"
   CV: "cv"
 
 # Profile image — upload your photo to assets/img/ and update the path below
