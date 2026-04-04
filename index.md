@@ -1,3 +1,9 @@
+---
+layout: home
+title: Home
+subtitle: AI Researcher | Wireless Power Transfer | Machine Learning | Energy Systems
+---
+
 ## About Me
 
 I am a Postdoctoral Researcher at KENTECH (Energy AI Lab), working on AI-driven digital twins for DC power grids.
